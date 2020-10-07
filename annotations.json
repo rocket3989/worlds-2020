@@ -1,0 +1,99 @@
+
+[
+  {
+    "path": "M 19,-121 A 35.094 35.094 0 0 0 52,-177",
+    "text": "A win against G2 gets SN a tiebreaker out of groups",
+    "team": "TL",
+    "lw": 21,
+    "textOffset": [
+      -133,
+      -121
+    ]
+  },
+  {
+    "path": "M -36,279 A 45.026 45.026 0 0 0 43,310",
+    "text": "Tap to see how the first match affects the group",
+    "team": "MCX",
+    "lw": 21,
+    "textOffset": [
+      -47,
+      244
+    ]
+  },
+  {
+    "path": "M -2000 0",
+    "text": "Two wins advance G2 or SNG out of groups",
+    "team": "SN",
+    "lw": 22,
+    "textOffset": [
+      -107,
+      12
+    ]
+  },
+  {
+    "path": "M -2000 0",
+    "text": "Two loses eliminate MCX and TL",
+    "team": "TL",
+    "lw": 22,
+    "textOffset": [
+      -107,
+      12
+    ]
+  },
+  {
+    "path": "M 286,220 A 123.355 123.355 0 0 1 105,221",
+    "text": "DWG can lose all three games and still advance without a tiebreaker",
+    "team": "DWG",
+    "lw": 24,
+    "textOffset": [
+    241, 185
+    ]
+  },
+  {
+    "path": "M 263,-53 A 154.833 154.833 0 0 1 207,62",
+    "text": "PSG has a slim chance of getting a tiebreaker without beating DWG",
+    "team": "PSG",
+    "lw": 24,
+    "textOffset": [
+    181,-103
+    ]
+  },
+  {
+    "path": "M 261,-69 A 62.889 62.889 0 0 1 182,3.999999523162842",
+    "text": "TSM needs to go 3-0  and win a tiebreaker to advance",
+    "team": "TSM",
+    "lw": 24,
+    "textOffset": [
+    166,
+    -100
+    ]
+  },
+  {
+    "path": "M -2000 0",
+    "text": "A three way tie for first leaves possibilities wide open for Group C",
+    "team": "FNC",
+    "lw": 24,
+    "textOffset": [
+    234,-137
+    ]
+  },
+  {
+    "path": "M 207,242 A 65.907 65.907 0 0 1 106,224",
+    "text": "There is only a single scenario in which TES is eliminated without a tiebreaker",
+    "team": "TES",
+    "lw": 24,
+    "textOffset": [
+    218, 198
+    ]
+  },
+  {
+    "path": "M 261,-64 A 62.002 62.002 0 0 1 182,4",
+    "text": "Even with three wins, UOL can still be eliminated",
+    "team": "UOL",
+    "lw": 24,
+    "textOffset": [
+    183,
+    -88
+    ]
+  }
+]
